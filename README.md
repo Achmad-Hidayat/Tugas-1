@@ -81,11 +81,11 @@ Motivasi dan Doa "Setiap baris kode yang kalian tulis adalah langkah menuju peru
 
 <title>Jawaban Proyek Ujian - UMKM, Koperasi, dan Bank Sampah</title> <style> body { font-family: Arial, sans-serif; padding: 30px; background-color: #ffffff; } h1, h2, h3 { color: #333; } pre { background-color: #eee; padding: 10px; border-left: 4px solid #008080; overflow-x: auto; } code { font-family: "Courier New", Courier, monospace; } .output { background: #000; color: #0f0; padding: 10px; margin-top: 10px; white-space: pre-wrap; } .section { margin-bottom: 40px; } </style>
 Jawaban Proyek Ujian - UMKM, Koperasi, dan Bank Sampah
-Nama Peserta: Farhan Fadillah
+Nama Peserta: Achmad Hidayat
 
 Batch: ETL Batch 9
 
-No. Absen: 9.008.DB2025
+No. Absen: 9.011.DB2025
 
 Judul Proyek: Sistem Pengelolaan UMKM, Koperasi, dan Bank Sampah
 
@@ -238,9 +238,9 @@ print(f"\nTotal Keuntungan Koperasi: Rp{koperasi.hitung_keuntungan()}")</code></
 <div class="section">
     <h2>🖥️ Contoh Output Terminal</h2>
     <div class="output">
-UMKM: Tani Maju Anggota: Budi Pinjaman: 1000000 Pengembalian (1 tahun): Rp1050000 Nilai Tukar Sampah: Rp30000 Pesan Edukasi: Terima kasih telah berkontribusi, mari kumpulkan lebih banyak!
+UMKM: Amanah Tani: Achmad Pinjaman: 2000000 Pengembalian (1 tahun): Rp2100000 Nilai Tukar Sampah: Rp60000 Pesan Edukasi: Terima kasih telah berkontribusi, mari kumpulkan lebih banyak!
 
-Total Keuntungan Koperasi: Rp250000
+Total Keuntungan Koperasi: Rp500000
 
 <div class="section">
     <h2>📌 Catatan & Pembelajaran</h2>
